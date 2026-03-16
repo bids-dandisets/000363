@@ -1,0 +1,17 @@
+{
+    "Name": "Mesoscale Activity Map Dataset",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Mesoscale Activity Map Project. Map behavior-related activity in a multi-regional network supporting memory-guided movement in mice. Anatomy-guided recordings from multiple connected brain regions, from anterior lateral motor cortex to the medulla.\n\nSupported by Simons Collaboration on the Global Brain, Janelia Visitor Project, NIH U19NS123714-01, R01NS112312, R01EB028171, McKnight foundation",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC0-1.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
