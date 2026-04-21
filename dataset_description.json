@@ -4,7 +4,12 @@
     "HEDVersion": "8.3.0",
     "Description": "Mesoscale Activity Map Project. Map behavior-related activity in a multi-regional network supporting memory-guided movement in mice. Anatomy-guided recordings from multiple connected brain regions, from anterior lateral motor cortex to the medulla.\n\nSupported by Simons Collaboration on the Global Brain, Janelia Visitor Project, NIH U19NS123714-01, R01NS112312, R01EB028171, McKnight foundation",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Chen, Susu",
+        "Nguyen, Thinh",
+        "Li, Nuo",
+        "Svoboda, Karel"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
